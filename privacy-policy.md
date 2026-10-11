@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: 30 September 2026
+Last updated: 11 October 2026
 
 AI Companion ("the app", "we") is operated by Ali Raza, Pakistan. Contact: jezismith150@gmail.com.
 
@@ -44,6 +44,29 @@ The app is only for people aged 18 and over. You confirm your age when you first
 ## Retention and security
 
 We keep your data until you delete it or your account. Data is encrypted in transit. Reports may be kept in anonymised form after account deletion for safety and legal purposes. Google Play and RevenueCat may keep their own records of payments as required by law and their policies.
+
+## Users in the European Economic Area and the United Kingdom (GDPR)
+
+If you are in the EEA or the UK, the GDPR and UK GDPR give you extra rights. Ali Raza is the data controller for your personal data.
+
+**Why we may use your data (legal bases)**
+
+- **To provide the app you asked for (contract):** your account, chats, coins, unlocked characters and purchases, and generating AI replies.
+- **Legitimate interests:** keeping the app safe, preventing fraud and abuse, reviewing reports, and fixing problems. We balance these against your rights.
+- **Legal obligation:** keeping purchase records and responding to lawful requests.
+
+**Your rights.** You can ask us to:
+
+- give you a copy of your data (access) and send it to you in a portable format (portability);
+- correct inaccurate data (rectification);
+- delete your data (erasure). You can also do this yourself in the app;
+- restrict or object to how we use your data, including uses based on legitimate interests.
+
+To use any of these rights, email jezismith150@gmail.com from the email saved on your account, or tell us your account details so we can find it. We reply within one month. You also have the right to complain to your local data protection authority.
+
+**International transfers.** Our service providers may store or process data outside your country, including in Singapore (our database region) and the United States. Where the law requires it, these transfers rely on safeguards such as the European Commission's Standard Contractual Clauses used by those providers.
+
+**No automated decisions with legal effects.** AI replies are generated automatically, but we do not make decisions about you that have legal or similarly significant effects.
 
 ## Changes
 
